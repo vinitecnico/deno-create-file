@@ -1,2 +1,5 @@
 # deno-create-file
-create first project in deno with typescript
+Run project
+deno run --unstable --allow-write  index.ts
+
+result create file product.txt with list products
